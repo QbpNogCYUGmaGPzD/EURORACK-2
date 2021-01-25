@@ -4,7 +4,7 @@ _EURORACK DIY_
 
 This repository was made to provide you with the neccessary information to source your parts and find their place on the PCB. There won´t be full build documentations available at any time in the future. 
 
-If you have questions before or while building please join the [ST Modular Builders Group](https://www.facebook.com/groups/stmodular/) on Facebook. There you will also find additional information about the builds in the "lessions" section.
+If you have questions before or while building please join the [ST Modular Builders Group](https://www.facebook.com/groups/stmodular/) on Facebook. There you will also find additional information about the builds in the "units" section.
 
 I also recommend to fully read the "Eurorack Soldering Guide" available above. It includes a step-by-step description how I solder DIY projects, a list of recommended soldering tools and some links that might be useful when jumping into Eurorack DIY.
 
