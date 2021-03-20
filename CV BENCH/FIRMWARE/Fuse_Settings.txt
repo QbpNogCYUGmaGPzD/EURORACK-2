@@ -1,0 +1,6 @@
+avrdude -V -p t84 -c PROGRAMMER_NAME -P usb -B 10 -e -u \
+		-U efuse:w:0xff:m \
+		-U hfuse:w:0xd6:m \
+		-U lfuse:w:0xde:m \
+		-U lock:w:0x2f:m
+avrdude -V -p t84 -c PROGRAMMER_NAME -P usb -B 1 -U flash:w:cvpal.hex:i -U lock:w:0x2f:m
